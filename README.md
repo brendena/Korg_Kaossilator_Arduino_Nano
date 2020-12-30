@@ -14,7 +14,7 @@ To use the MIDI in port you need to put your device into midi mode "mode 4". The
 
 ### Change channel
 
-* ([Shift] + [Mode 4]) + [NMSSG] 
+* ([Shift] + [Mode 4]) + [NSSG] 
 * [GL.CH] - set the channel to receive and send mipi on
 
 ## Change the control number 

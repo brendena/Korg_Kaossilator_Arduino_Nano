@@ -7,9 +7,6 @@ AltSoftSerial altSerial; //9 tx 8 rx
 #define MIDI_NOTE_ON           0x90
 #define MIDI_NOTE_OFF          0x80
 
-
-
-
 // midi protocol data
 #define MIDI_MODULATION_WHEEl  0x01
 

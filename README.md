@@ -48,3 +48,10 @@ Control Change | Bx | Controller number | Controller value
 Program Change | Cx | Program number | None
 Channel Pressure | Dx | Pressure value | None            
 Pitch Bend | Ex | MSB | LSB
+
+
+
+# Schematic
+
+## SparkFun MIDI Shield
+If your using the [sparkfun midi shield](https://www.sparkfun.com/products/12898) then your going to need to jumper  [SJ2 and SJ1](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/Midi_Shieldv15.pdf) to software instead hardware.
